@@ -1,5 +1,5 @@
 *Python3 program to calculate network addresses.
-OS: Linux/Windows/Mac
+OS: Linux/Windows/Mac.
 Download the file, run it, and choose a subnet such as following:
 $ python3 netcalc.py       
 Give IP Address with netmask like 192.168.1.2/24 to Calculate Network Addresses: 192.168.1.18/24
